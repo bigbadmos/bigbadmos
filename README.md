@@ -12,10 +12,10 @@
 <h3 align="center"> 👨🏻‍💻 Social Media: </h4>
 <p align="center"> 
  <a href="https://github.com/bigbadmos" alt="bigbadmos">
-   <img src="https://img.shields.io/badge/-@SaulaSheriffdeen-%23181717?style=flat-square&logo=github" />
+   <img src="https://img.shields.io/badge/-@AhmadA.Gbadamosi-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="www.linkedin.com/in/ahma d- gbadamosi-78a27b41 " alt="bigbadmos's linkedin">
-   <img src="https://img.shields.io/badge/-@SaulaSheriffdeen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusuff-ahmad-o-a27233238/" />
+   <img src="https://img.shields.io/badge/-@SAhmadA.Gbadamosi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusuff-ahmad-o-a27233238/" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=SalamBhai&color=ff69b4&style=flat-square" />
