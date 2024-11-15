@@ -1,7 +1,7 @@
 <h1 align="center"> Hi  I'm Ahmad A. Gbadamosi</h1>
 <h3 align="center"> 👨‍💻 Software/Data Engineer</h3>
 
-**💼 Currently working as:** Software Engineer at <a href="https://sysbeams.com/](https://www.fintraksoftware.com/" target="_blank"><b>FinTrak</b></a>.
+**💼 Currently working as:** Software Development Manager, Performance & Strategic Reporting at <a href="https://sysbeams.com/](https://www.fintraksoftware.com/" target="_blank"><b>FinTrak Software</b></a>.
 
 > About Me 👨‍💼
 > 
